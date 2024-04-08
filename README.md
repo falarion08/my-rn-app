@@ -13,7 +13,7 @@ The application currently  runs on on the following versions.
 
 Using your smartphone (android or IOS) install the Expo Go application from the playstore or the app store. To start running the program, first navigate to the folder directory of the application and start the program. This is done by doing the following on the terminal
 
-    cd MY-RN-APP
+    cd my-rn-app
     npm run start
 
 Starting the program will take some time. However, an indication that the program is already running is a QR Code will be shown on your terminal for you to scan. Using Expo Go application in your smart phone, scan the QR code.
